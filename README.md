@@ -13,7 +13,7 @@ This project analyzes Zara's product-level data to identify patterns that impact
 - Visual dashboards help identify top-performing SKUs
 
 ## Notebook
-Check `Zara_Gross_Margin_Analysis.ipynb` for the full project.
+Check `NL_Zara.ipynb` for the full project.
 
 
 You can download and explore the full Zara Gross Margin Tableau Dashboard here:
